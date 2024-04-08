@@ -2,7 +2,7 @@
 	"name": "@pantheon-systems/gatsby-wordpress-starter",
 	"version": "0.1.0",
 	"engines": {
-		"node": "16"
+		"node": "< 16 && > 17"
 	},
 	"private": true,
 	"license": "GPL-3.0-or-later",
