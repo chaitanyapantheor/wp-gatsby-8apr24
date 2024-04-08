@@ -9,7 +9,7 @@
 	"repository": "",
 	"author": "",
 	"engines": {
-		"node": "18"
+		"node": "16.20.2"
 	},
 	"scripts": {
 		"build": "npm run decoupled-kit-health-check && gatsby build",
