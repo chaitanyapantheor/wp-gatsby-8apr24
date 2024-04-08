@@ -1,9 +1,6 @@
 {
 	"name": "@pantheon-systems/gatsby-wordpress-starter",
 	"version": "0.1.0",
-	"engines": {
-		"node": "< 16 && > 17"
-	},
 	"private": true,
 	"license": "GPL-3.0-or-later",
 	"description": "",
@@ -12,7 +9,7 @@
 	"repository": "",
 	"author": "",
 	"engines": {
-		"node": "18"
+		"node": "16.20.2"
 	},
 	"scripts": {
 		"build": "npm run decoupled-kit-health-check && gatsby build",
